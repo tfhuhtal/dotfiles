@@ -1,8 +1,5 @@
-# My NeoVim config
+# Dotfiles
 
-I use LazyVim
+My configuration files for bash, vim, tmux and alacritty
 
-## 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+My configuration is based on  Ubuntu!
